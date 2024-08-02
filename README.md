@@ -3,4 +3,5 @@
 - I'm a junior backend programmer
 - Learning the Django framework
 - Interested in research and learning
+- Lovers of AI
 

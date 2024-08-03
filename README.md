@@ -14,8 +14,9 @@
 <p align="left">
 </p>
 
-![https://t.me/Abolfazl_PNY](https://github.com/AbolfazlPoornaderiyan/AbolfazlPoornaderiyan/blob/main/icons8-telegram-96.png?raw=true)
 
+
+<a href="https://t.me/Abolfazl_PNY"><img align="left" src="https://github.com/AbolfazlPoornaderiyan/AbolfazlPoornaderiyan/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>

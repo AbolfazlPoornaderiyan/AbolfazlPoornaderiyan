@@ -12,11 +12,7 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
-
-
-
-<a href="https://t.me/Abolfazl_PNY"><img align="left" src="https://github.com/AbolfazlPoornaderiyan/AbolfazlPoornaderiyan/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
+</p> <a href="https://t.me/Abolfazl_PNY"><img align="left" src="https://github.com/AbolfazlPoornaderiyan/AbolfazlPoornaderiyan/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
 
 ___
 

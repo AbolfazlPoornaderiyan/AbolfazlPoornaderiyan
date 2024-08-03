@@ -14,7 +14,7 @@
 <p align="left">
 </p>
 
-![https://t.me/Abolfazl_PNY](https://github.com/user-attachments/assets/64af54a6-aa70-4f94-98c9-279c6149b771)
+![[Link Telegram](https://t.me/Abolfazl_PNY)](https://github.com/user-attachments/assets/64af54a6-aa70-4f94-98c9-279c6149b771)
 
 
 <h3 align="left">Languages and Tools:</h3>

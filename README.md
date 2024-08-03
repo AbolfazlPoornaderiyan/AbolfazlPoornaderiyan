@@ -6,7 +6,6 @@
 <h3 align="center">A junior backend developer from Iran</h3>
 
 ## 👨‍💻About me:
-- I'm a junior backend programmer
 - Learning the Django framework
 - Interested in research and learning
 - Lovers of AI

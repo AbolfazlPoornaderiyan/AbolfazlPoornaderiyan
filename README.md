@@ -1,60 +1,54 @@
-# 👨‍💻 Abolfazl Poornaderiyan
+<h1 align="center">🤖 Abolfazl Pornadrian</h1>
+<h3 align="center">AI & Machine Learning Enthusiast | Python Developer | Lifelong Learner</h3>
 
-## 🧠 Junior Backend Developer | Django Enthusiast | AI Explorer
-
-Welcome to my GitHub! I'm Abolfazl, a backend developer from Najafabad, Iran 🇮🇷, passionate about building scalable APIs, learning deeply, and blending technology with creativity.
-
----
-
-## 🔍 About Me
-
-- 💻 Currently focused on mastering **Django REST Framework**
-- 🧪 Passionate about **research**, **learning**, and **problem-solving**
-- 🤖 Enthusiast of **AI tools**, especially in creative and visual domains
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Machine+Learning+Learner;Python+%7C+Pandas+%7C+Scikit-learn+Lover;Mathematics+%26+Statistics+Enthusiast;Always+curious%2C+always+building" />
+</p>
 
 ---
 
-## 🛠 Skills & Technologies
+## 🧠 About Me
 
-| Category              | Tools & Concepts                                                                 |
-|-----------------------|----------------------------------------------------------------------------------|
-| **Backend Development** | Django, Django REST Framework, Class-Based Views, Serializers, CRUD APIs        |
-| **Version Control**     | Git, GitHub, Branching, Pull Requests, Commit Hygiene                          |
-| **Databases**           | SQLite, PostgreSQL, ForeignKey, Self-referential Models, ORM Optimization      |
-| **Frontend Basics**     | HTML, Template Inheritance, Context Debugging                                  |
-| **Networking**          | DNS Configuration, Domain Linking, Basic Networking Concepts                   |
-| **Security**            | Token Authentication (JWT), Access Control, Endpoint Protection                |
-| **Debugging & Testing** | Postman, Django Debug Toolbar, API Testing                                     |
+- 🎓 I'm **Abolfazl Pornadrian** – deeply passionate about **Artificial Intelligence** and **Machine Learning**.
+- 🐍 I work mostly with **Python** and its powerful ecosystem: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`.
+- 📊 I have a solid understanding of **Probability & Statistics**, **Linear Algebra** – the core of ML magic.
+- 🔍 I love exploring data, building models, and turning insights into real value.
+- 🌱 Right now: continuously learning & experimenting with real-world ML projects.
 
 ---
 
-### 🛍️ Digital Product API
+## 🛠️ Tech Toolbox
 
-A full-featured e-commerce backend built with Django REST Framework:
-
-- Product management with full CRUD
-- Token-based authentication
-- Category and brand relationships
-- Git-integrated version control
-
-🔗 [View Repository](https://github.com/AbolfazlPoornaderiyan/Digital-Product)
-
----
-
-## 🎨 Creative Interests
-
-- Designing personalized profile images with digital art tools  
-- Exploring AI-generated visuals that reflect identity and emotion  
-- Celebrating my sister’s name and meaning through creative projects
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Seaborn-388E8E?logo=python&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat" />
+</p>
 
 ---
 
-## 📫 Contact Me
+## 📈 Currently focused on
 
-- 📧 Email: abolfazlpoor1461@gmail.com  
-- 📱 Telegram: [@Abolfazl_PNY](https://t.me/Abolfazl_PNY)
+- 🧠 Improving my ML model building & evaluation skills  
+- 📚 Deepening my math foundation for AI (Linear Algebra, Calculus, Stats)  
+- 🧪 Building small but meaningful ML projects (regression, classification, etc.)
 
 ---
 
-> “Every line of code I write is a step toward building tools that reflect who I am and where I come from.”
+## 📫 Let's connect
 
+<p align="left">
+  <a href="https://github.com/[YourGitHubUsername]">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <!-- Add LinkedIn, Twitter, etc. if you like -->
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]&color=brightgreen" alt="Profile views" />
+</p>

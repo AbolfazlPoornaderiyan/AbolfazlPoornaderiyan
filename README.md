@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Abolfazl Pornadrian</h1>
+<h1 align="center">🤖 Abolfazl Pournaderian</h1>
 <h3 align="center">AI & Machine Learning Enthusiast | Python Developer | Lifelong Learner</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🎓 I'm **Abolfazl Pornadrian** – deeply passionate about **Artificial Intelligence** and **Machine Learning**.
+- 🎓 I'm **Abolfazl Pournaderian** – deeply passionate about **Artificial Intelligence** and **Machine Learning**.
 - 🐍 I work mostly with **Python** and its powerful ecosystem: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`.
 - 📊 I have a solid understanding of **Probability & Statistics**, **Linear Algebra** – the core of ML magic.
 - 🔍 I love exploring data, building models, and turning insights into real value.
@@ -38,17 +38,30 @@
 
 ---
 
+## 📫 My Kaggle Profile
+
+<p align="left">
+  <a href="https://www.kaggle.com/abolfazlpournaderian">
+    <img src="https://img.shields.io/badge/Kaggle-@abolfazlpournaderian-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
+  🔗 <strong>Direct link:</strong> <a href="https://www.kaggle.com/abolfazlpournaderian">https://www.kaggle.com/abolfazlpournaderian</a>
+</p>
+
+---
+
 ## 📫 Let's connect
 
 <p align="left">
-  <a href="https://github.com/[YourGitHubUsername]">
+  <a href="https://github.com/abolfazlpournaderian">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
-  <!-- Add LinkedIn, Twitter, etc. if you like -->
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]&color=brightgreen" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abolfazlpournaderian&color=brightgreen" alt="Profile views" />
 </p>
